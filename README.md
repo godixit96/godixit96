@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Tableau
 - 💞️ I’m looking to collaborate on policy studies and data analysis of public policy related data
 - 📫 How to reach me 21sspp103001@msruas.ac.in
-- 
+
 
 <!---
 godixit96/godixit96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
